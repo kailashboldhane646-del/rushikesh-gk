@@ -1,2 +1,1 @@
-# gk-champion
-GK Champion Website
+index.html
