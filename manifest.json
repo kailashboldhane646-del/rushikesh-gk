@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "GK Champion \u2014 Learn, Play & Achieve",
+  "short_name": "GK Champion",
+  "description": "Practice general knowledge quizzes, track progress and earn achievements.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fc",
+  "theme_color": "#4f46e5",
+  "icons": []
+}
